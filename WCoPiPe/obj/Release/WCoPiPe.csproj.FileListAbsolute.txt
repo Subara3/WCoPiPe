@@ -1,0 +1,14 @@
+D:\myapplication\WCoPiPe\WCoPiPe\bin\Release\WCoPiPe.exe.config
+D:\myapplication\WCoPiPe\WCoPiPe\bin\Release\WCoPiPe.exe
+D:\myapplication\WCoPiPe\WCoPiPe\bin\Release\WCoPiPe.pdb
+D:\myapplication\WCoPiPe\WCoPiPe\bin\Release\GlobalHotKey.dll
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.csproj.AssemblyReference.cache
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.csproj.SuggestedBindingRedirects.cache
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.MainForm.resources
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.Properties.Resources.resources
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.csproj.GenerateResource.cache
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.csproj.CoreCompileInputs.cache
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.csproj.CopyComplete
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.exe
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.pdb
+D:\myapplication\WCoPiPe\WCoPiPe\obj\Release\WCoPiPe.InitializeSettingForm.resources
