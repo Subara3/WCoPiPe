@@ -25,5 +25,5 @@ WCoPiPe.exeをダブルクリックしてください。
 または　常駐モードの場合　右クリックメニューから終了
 
 # その他　THANKS
-デバッグしてくださったあきらさん　https://home-or-away.com/
-アイコン　https://icooon-mono.com/
+- デバッグしてくださったあきらさん　https://home-or-away.com/
+- アイコン　https://icooon-mono.com/
