@@ -151,7 +151,7 @@ namespace WCoPiPe
 
                 var calculateButton = new Button
                 {
-                    Text = "コピペ",
+                    Text = "コピー",
                     Location = new Point(labelXOffset, labelYOffset),
                     Height = 50,
                 };

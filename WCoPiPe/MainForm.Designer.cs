@@ -167,7 +167,7 @@
             this.buttonGetUDB.Name = "buttonGetUDB";
             this.buttonGetUDB.Size = new System.Drawing.Size(75, 23);
             this.buttonGetUDB.TabIndex = 14;
-            this.buttonGetUDB.Text = "UDB値ｺﾋﾟﾍﾟ";
+            this.buttonGetUDB.Text = "UDB値コピ-";
             this.buttonGetUDB.UseVisualStyleBackColor = true;
             this.buttonGetUDB.Click += new System.EventHandler(this.buttonGetUDB_Click);
             // 
@@ -177,7 +177,7 @@
             this.buttonGetCDB.Name = "buttonGetCDB";
             this.buttonGetCDB.Size = new System.Drawing.Size(75, 23);
             this.buttonGetCDB.TabIndex = 15;
-            this.buttonGetCDB.Text = "CDB値ｺﾋﾟﾍﾟ";
+            this.buttonGetCDB.Text = "CDB値コピ-";
             this.buttonGetCDB.UseVisualStyleBackColor = true;
             this.buttonGetCDB.Click += new System.EventHandler(this.buttonGetCDB_Click);
             // 
@@ -188,7 +188,7 @@
             this.buttonOutputSys.Name = "buttonOutputSys";
             this.buttonOutputSys.Size = new System.Drawing.Size(109, 40);
             this.buttonOutputSys.TabIndex = 17;
-            this.buttonOutputSys.Text = "Sysコピペ";
+            this.buttonOutputSys.Text = "Sysコピ-";
             this.buttonOutputSys.UseVisualStyleBackColor = true;
             this.buttonOutputSys.Click += new System.EventHandler(this.buttonOutputSys_Click);
             // 
@@ -199,7 +199,7 @@
             this.buttonCDBOutput.Name = "buttonCDBOutput";
             this.buttonCDBOutput.Size = new System.Drawing.Size(109, 40);
             this.buttonCDBOutput.TabIndex = 16;
-            this.buttonCDBOutput.Text = "CDBコピペ";
+            this.buttonCDBOutput.Text = "CDBコピ-";
             this.buttonCDBOutput.UseVisualStyleBackColor = true;
             this.buttonCDBOutput.Click += new System.EventHandler(this.buttonCDBOutput_Click);
             // 
@@ -248,7 +248,7 @@
             this.buttonUDBOutput.Name = "buttonUDBOutput";
             this.buttonUDBOutput.Size = new System.Drawing.Size(109, 40);
             this.buttonUDBOutput.TabIndex = 10;
-            this.buttonUDBOutput.Text = "UDBコピペ";
+            this.buttonUDBOutput.Text = "UDBコピ-";
             this.buttonUDBOutput.UseVisualStyleBackColor = true;
             this.buttonUDBOutput.Click += new System.EventHandler(this.buttonUDBOutput_Click);
             // 
